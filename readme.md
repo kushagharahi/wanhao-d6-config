@@ -13,7 +13,7 @@ If you wish to use these configs as a starting point for your Wanhao D6, you may
 
 Mods:
 - OEM enclosure
-- Microswiss all metal hotend 
+- Microswiss all metal hotend and slotted heat sink
 - Triangle Labs direct drive extruder (mounted with Bondtech machined metal mount and Bondtech PCB holder)
   - Replaced the extruder motor with a pancake motor to prevent build area loss
   -  42x42x23mm, 1.8 deg. step angle (200 steps/rev), 1A/3.5ohms/4.1V, 13Ncm
