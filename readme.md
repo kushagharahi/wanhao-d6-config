@@ -37,6 +37,7 @@ Non functional (ish) mods:
 
 Useful links:
 - Mobo PCB overview: https://3dprint.wiki/reprap/wanhao/duplicator6/major_components/motherboard
+- Gantry alignment and case modification for holes to be able to remove rods without having to disassemble the whole gantry: https://othermod.com/turn-a-monoprice-maker-ultimate-or-wanhao-duplicator-6-into-an-ultimaker-2/
 
 ![hot end top](/pics/hotend_top.png)
 ![hot end bottom](/pics/hotend_bottom.png)
