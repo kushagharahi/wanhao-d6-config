@@ -8,7 +8,7 @@
   - Features a prime line after heating from 05, 30 -> 05, 170 -> 07, 170 -> 07, 30
     - This eliminates the need for skirts or brims!
 
-If you wish to use these configs as a starting point for your Wanhao D6, you may want to consider the modifcations I've made.
+If you wish to use these configs as a starting point for your Wanhao D6, you may want to consider the modifcations I've made. Without mods, the Wanhao D6 is basically unusable (in my opinion)
 
 
 Mods:
