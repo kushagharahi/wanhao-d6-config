@@ -15,7 +15,9 @@ Mods:
 - OEM enclosure
 - Microswiss all metal hotend 
 - Triangle Labs direct drive extruder (mounted with Bondtech machined metal mount and Bondtech PCB holder)
-- BLTouch 
+  - Replaced the extruder motor with a pancake motor to prevent build area loss
+  -  42x42x23mm, 1.8 deg. step angle (200 steps/rev), 1A/3.5ohms/4.1V, 13Ncm
+- BLTouch
   - Mount: https://www.thingiverse.com/thing:4108601
   - wired to both the z limit connector and analog connector. Power is from the analog connector pins 2 and 3, servo signal is z limit pin 1, and limit function moved to analog pin 1.
   - Wiring diagram: ![Wiring diagram](/pics/bltouch-wiring.png) ([taken from dot bob](https://www.thingiverse.com/thing:2483813))
